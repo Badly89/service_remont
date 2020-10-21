@@ -87,6 +87,7 @@
 }
 
 .reklama {
+    display: block !important;
     background-image: url(../img/block-reklama2.png);
     background-repeat: no-repeat;
     background-size: cover;
